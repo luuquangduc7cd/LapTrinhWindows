@@ -1,0 +1,10 @@
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_DoiTien\bin\Debug\Tuan1_DoiTien.exe.config
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_DoiTien\bin\Debug\Tuan1_DoiTien.exe
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_DoiTien\bin\Debug\Tuan1_DoiTien.pdb
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.csprojAssemblyReference.cache
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.FormMain.resources
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.Properties.Resources.resources
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.csproj.GenerateResource.cache
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.csproj.CoreCompileInputs.cache
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.exe
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_DoiTien\obj\Debug\Tuan1_DoiTien.pdb

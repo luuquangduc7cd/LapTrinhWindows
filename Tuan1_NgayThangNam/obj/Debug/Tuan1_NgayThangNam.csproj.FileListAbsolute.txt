@@ -1,0 +1,10 @@
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayThangNam\bin\Debug\Tuan1_NgayThangNam.exe.config
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayThangNam\bin\Debug\Tuan1_NgayThangNam.exe
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayThangNam\bin\Debug\Tuan1_NgayThangNam.pdb
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.csprojAssemblyReference.cache
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.FormMain.resources
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.Properties.Resources.resources
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.csproj.GenerateResource.cache
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.csproj.CoreCompileInputs.cache
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.exe
+C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.pdb
