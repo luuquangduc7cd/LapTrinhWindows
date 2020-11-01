@@ -8,3 +8,12 @@ C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayTh
 C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.csproj.CoreCompileInputs.cache
 C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.exe
 C:\Users\Sakura\Documents\LuuQuangDuc-16019921\LuuQuangDuc-16019921\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.pdb
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan1_NgayThangNam\bin\Debug\Tuan1_NgayThangNam.exe.config
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.exe
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.pdb
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan1_NgayThangNam\bin\Debug\Tuan1_NgayThangNam.exe
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan1_NgayThangNam\bin\Debug\Tuan1_NgayThangNam.pdb
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.FormMain.resources
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.Properties.Resources.resources
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.csproj.GenerateResource.Cache

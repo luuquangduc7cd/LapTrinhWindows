@@ -1,0 +1,9 @@
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan4_Cinema\bin\Debug\Tuan4_Cinema.exe.config
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan4_Cinema\bin\Debug\Tuan4_Cinema.exe
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan4_Cinema\bin\Debug\Tuan4_Cinema.pdb
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.csprojResolveAssemblyReference.cache
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.FormMain.resources
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.Properties.Resources.resources
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.csproj.GenerateResource.Cache
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.exe
+C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.pdb
