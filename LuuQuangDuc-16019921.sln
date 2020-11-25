@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan4_Cinema", "Tuan4_Cinem
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan5_QuanLyPhongMay", "Tuan5_QuanLyPhongMay\Tuan5_QuanLyPhongMay.csproj", "{BACA257D-3711-4037-B8A4-BBD453D9DEF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan2_CafeSinhVien", "Tuan2_CafeSinhVien\Tuan2_CafeSinhVien.csproj", "{B5B985A3-93C9-47AC-87F3-77CDE49B5EBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tuan3_ThueCD", "Tuan3_ThueCD\Tuan3_ThueCD.csproj", "{6F06429B-EE45-4E53-AC02-7E7762A0B215}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{BACA257D-3711-4037-B8A4-BBD453D9DEF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BACA257D-3711-4037-B8A4-BBD453D9DEF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BACA257D-3711-4037-B8A4-BBD453D9DEF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5B985A3-93C9-47AC-87F3-77CDE49B5EBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5B985A3-93C9-47AC-87F3-77CDE49B5EBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5B985A3-93C9-47AC-87F3-77CDE49B5EBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5B985A3-93C9-47AC-87F3-77CDE49B5EBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F06429B-EE45-4E53-AC02-7E7762A0B215}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F06429B-EE45-4E53-AC02-7E7762A0B215}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F06429B-EE45-4E53-AC02-7E7762A0B215}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F06429B-EE45-4E53-AC02-7E7762A0B215}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

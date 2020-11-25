@@ -27,3 +27,13 @@ C:\Users\H4-HTTT\Desktop\LapTrinhWindows\Tuan1_NgayThangNam\obj\Debug\Tuan1_Ngay
 C:\Users\H4-HTTT\Desktop\LapTrinhWindows\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.csproj.CoreCompileInputs.cache
 C:\Users\H4-HTTT\Desktop\LapTrinhWindows\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.exe
 C:\Users\H4-HTTT\Desktop\LapTrinhWindows\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.pdb
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan1_NgayThangNam\bin\Debug\Tuan1_NgayThangNam.exe.config
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan1_NgayThangNam\bin\Debug\Tuan1_NgayThangNam.exe
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan1_NgayThangNam\bin\Debug\Tuan1_NgayThangNam.pdb
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.csprojAssemblyReference.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.FormMain.resources
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.Properties.Resources.resources
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.csproj.GenerateResource.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.csproj.CoreCompileInputs.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.exe
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan1_NgayThangNam\obj\Debug\Tuan1_NgayThangNam.pdb

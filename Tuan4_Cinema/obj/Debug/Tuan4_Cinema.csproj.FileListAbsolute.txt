@@ -7,3 +7,13 @@ C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan4_Cinem
 C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.csproj.GenerateResource.Cache
 C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.exe
 C:\Users\Student\Downloads\LapTrinhWindows-main\LapTrinhWindows-main\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.pdb
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan4_Cinema\bin\Debug\Tuan4_Cinema.exe.config
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan4_Cinema\bin\Debug\Tuan4_Cinema.exe
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan4_Cinema\bin\Debug\Tuan4_Cinema.pdb
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.csprojAssemblyReference.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.FormMain.resources
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.Properties.Resources.resources
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.csproj.GenerateResource.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.exe
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan4_Cinema\obj\Debug\Tuan4_Cinema.pdb

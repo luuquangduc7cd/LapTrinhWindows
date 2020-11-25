@@ -1,0 +1,10 @@
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan3_ThueCD\bin\Debug\Tuan3_ThueCD.exe.config
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan3_ThueCD\bin\Debug\Tuan3_ThueCD.exe
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan3_ThueCD\bin\Debug\Tuan3_ThueCD.pdb
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan3_ThueCD\obj\Debug\Tuan3_ThueCD.csprojAssemblyReference.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan3_ThueCD\obj\Debug\Tuan3_ThueCD.FormMain.resources
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan3_ThueCD\obj\Debug\Tuan3_ThueCD.Properties.Resources.resources
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan3_ThueCD\obj\Debug\Tuan3_ThueCD.csproj.GenerateResource.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan3_ThueCD\obj\Debug\Tuan3_ThueCD.csproj.CoreCompileInputs.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan3_ThueCD\obj\Debug\Tuan3_ThueCD.exe
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan3_ThueCD\obj\Debug\Tuan3_ThueCD.pdb

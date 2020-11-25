@@ -1,0 +1,10 @@
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan2_CafeSinhVien\bin\Debug\Tuan2_CafeSinhVien.exe.config
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan2_CafeSinhVien\bin\Debug\Tuan2_CafeSinhVien.exe
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan2_CafeSinhVien\bin\Debug\Tuan2_CafeSinhVien.pdb
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan2_CafeSinhVien\obj\Debug\Tuan2_CafeSinhVien.csprojAssemblyReference.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan2_CafeSinhVien\obj\Debug\Tuan2_CafeSinhVien.FormMain.resources
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan2_CafeSinhVien\obj\Debug\Tuan2_CafeSinhVien.Properties.Resources.resources
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan2_CafeSinhVien\obj\Debug\Tuan2_CafeSinhVien.csproj.GenerateResource.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan2_CafeSinhVien\obj\Debug\Tuan2_CafeSinhVien.csproj.CoreCompileInputs.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan2_CafeSinhVien\obj\Debug\Tuan2_CafeSinhVien.exe
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan2_CafeSinhVien\obj\Debug\Tuan2_CafeSinhVien.pdb

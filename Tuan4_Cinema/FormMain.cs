@@ -69,6 +69,12 @@ namespace Tuan4_Cinema
             txtThanhTien.Text = tong.ToString("#,###.##");
         }
 
+        private void FormMain_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            DialogResult dr = MessageBox.Show("Bạn có chắc chắn thoát không?", "Thoát", MessageBoxButtons.YesNo);
+            e.Cancel = dr == DialogResult.No;
+        }
+
         private int tinhTien()
         {
             int tong = 0;

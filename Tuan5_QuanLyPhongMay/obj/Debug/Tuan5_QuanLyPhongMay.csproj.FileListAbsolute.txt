@@ -8,3 +8,14 @@ C:\Users\H4-HTTT\Desktop\LapTrinhWindows\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_Qu
 C:\Users\H4-HTTT\Desktop\LapTrinhWindows\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.csproj.CoreCompileInputs.cache
 C:\Users\H4-HTTT\Desktop\LapTrinhWindows\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.exe
 C:\Users\H4-HTTT\Desktop\LapTrinhWindows\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.pdb
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan5_QuanLyPhongMay\bin\Debug\Tuan5_QuanLyPhongMay.exe.config
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan5_QuanLyPhongMay\bin\Debug\Tuan5_QuanLyPhongMay.exe
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan5_QuanLyPhongMay\bin\Debug\Tuan5_QuanLyPhongMay.pdb
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.csprojAssemblyReference.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.frmMain.resources
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.Properties.Resources.resources
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.csproj.GenerateResource.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.csproj.CoreCompileInputs.cache
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.exe
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.pdb
+C:\Users\Gia Lai\Documents\LapTrinhWindows\Tuan5_QuanLyPhongMay\obj\Debug\Tuan5_QuanLyPhongMay.FormThemPhong.resources

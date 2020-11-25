@@ -34,9 +34,9 @@
             this.txtThanhTien = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.btnTinhTien = new System.Windows.Forms.Button();
+            this.btnTong = new System.Windows.Forms.Button();
             this.btnHuy = new System.Windows.Forms.Button();
             this.pnlFlow = new System.Windows.Forms.FlowLayoutPanel();
-            this.btnTong = new System.Windows.Forms.Button();
             this.pnlbottom.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -107,6 +107,20 @@
             this.btnTinhTien.UseVisualStyleBackColor = false;
             this.btnTinhTien.Click += new System.EventHandler(this.btnTinhTien_Click);
             // 
+            // btnTong
+            // 
+            this.btnTong.BackColor = System.Drawing.SystemColors.MenuHighlight;
+            this.btnTong.FlatAppearance.BorderSize = 0;
+            this.btnTong.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnTong.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.btnTong.Location = new System.Drawing.Point(315, 45);
+            this.btnTong.Name = "btnTong";
+            this.btnTong.Size = new System.Drawing.Size(180, 39);
+            this.btnTong.TabIndex = 0;
+            this.btnTong.Text = "Tổng tiền";
+            this.btnTong.UseVisualStyleBackColor = false;
+            this.btnTong.Click += new System.EventHandler(this.btnTong_Click);
+            // 
             // btnHuy
             // 
             this.btnHuy.BackColor = System.Drawing.SystemColors.MenuHighlight;
@@ -130,20 +144,6 @@
             this.pnlFlow.Size = new System.Drawing.Size(810, 324);
             this.pnlFlow.TabIndex = 1;
             // 
-            // btnTong
-            // 
-            this.btnTong.BackColor = System.Drawing.SystemColors.MenuHighlight;
-            this.btnTong.FlatAppearance.BorderSize = 0;
-            this.btnTong.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnTong.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnTong.Location = new System.Drawing.Point(315, 45);
-            this.btnTong.Name = "btnTong";
-            this.btnTong.Size = new System.Drawing.Size(180, 39);
-            this.btnTong.TabIndex = 0;
-            this.btnTong.Text = "Tổng tiền";
-            this.btnTong.UseVisualStyleBackColor = false;
-            this.btnTong.Click += new System.EventHandler(this.btnTong_Click);
-            // 
             // FormMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(10F, 20F);
@@ -157,6 +157,7 @@
             this.Margin = new System.Windows.Forms.Padding(5);
             this.Name = "FormMain";
             this.Text = "FormMain";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.FormMain_FormClosing);
             this.Load += new System.EventHandler(this.FormMain_Load);
             this.pnlbottom.ResumeLayout(false);
             this.pnlbottom.PerformLayout();
